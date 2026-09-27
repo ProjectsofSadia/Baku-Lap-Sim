@@ -1,0 +1,11 @@
+# Downloaded F1 data (large, not my work; FastF1 re-downloads it automatically)
+f1_cache/
+# Generated on every run; curated plots live in docs/
+outputs/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
